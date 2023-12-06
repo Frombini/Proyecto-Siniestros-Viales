@@ -89,17 +89,17 @@ Vemos que en los horarios de 6 a 8 de la mañana se producen mas accidentes de t
 
 - Continue generando gráficos de barras para variables categóricas.
 
-![Texto alternativo](https://ejemplo.com/imagen.jpg)
+![barrascalle](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20013408.png)
 
 En este grafico de barras podemos analizar la cantidad de accidentes producidos en las 4 categorias de calles que tenemos, Avenida, Gral. Paz, calle y autopista.
 Se puede ver que en la Avenidas, especialmente en los cruces, los accidentes son mas propensos, podemos deducir que es porque las avenidas son conexiones con alto transito y conectan varias comunas de la ciudad.
 
-![Texto alternativo](https://ejemplo.com/imagen.jpg)
+![comunas](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20013609.png)
 
 En este grafico podemos ver la distribucion de muertes por accidentes de transito por comunas.
 Vemos que las comunas con mas accidentes de transito mortales son las Comuna 1, 4 y 9.
 
-![Texto alternativo](https://ejemplo.com/imagen.jpg)
+![2021Victimas](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20013825.png)
 
 En este grafico de barras podemos analizar la cantidad de accidentes mortales, segun el tipo de Victima durante el 2021 que es nuestro ultimo año con informacion.
 Se puede ver que los accidentes de transito mortales en Motocicletas es grande con un 47% del total de los accidentes. Lo sigue de cerca los accidentes de transito moratles involucrando Peatones con un 34%.
@@ -110,7 +110,7 @@ PEATON: 34.02%
 BICICLETA: 6.19%
 PASAJEROS: 1.03%
 
-![Texto alternativo](https://ejemplo.com/imagen.jpg)
+![2020Victimas](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20014236.png)
 
 En este grafico podemos ver en comparacion con el año 2021 la cantidad e homicidios por accidentes de transito en el año 2020.
 Porcentaje de Accidentes Mortales por Tipo de Víctima (2020):
@@ -119,7 +119,7 @@ AUTO: 14.10%
 PEATON: 43.59%
 BICICLETA: 6.41%
 
-![Texto alternativo](https://ejemplo.com/imagen.jpg)
+![mapacalor](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20014411.png)
 
 Este es el mapa de calor que hice para ver cuales son las zonas con mayor concentracion de homicidios por accidentes de transito.
 Se pueden Ver que las comunas que mas Homicidios por accidentes tienen son la Comuna 1 ( barrios de Retiro, San Nicolás, Puerto Madero, San Telmo, Montserrat y Constitución), 4 (barrios de La Boca, Barracas, Parque Patricios y Nueva Pompeya) y 9 ( barrios de Liniers, Mataderos y Parque Avellaneda.). Para ver mejor el mapa de calor, revisar el EDA.ipynb donde se puede ver el mapa interactivo.
