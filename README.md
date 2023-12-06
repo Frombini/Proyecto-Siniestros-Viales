@@ -145,8 +145,6 @@ Por ultimo podemos ver la relacion entre el sexo de las victimas por accidentes.
 
 ![Outliers](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20015059.png)
 
-![Outliers](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20020615.png)
-
 Podemos analizar con los graficos box plots vistos anteriormente, que no parace haber valroes atipicos u outliers.
 Se puede ver que por ejemplo los accidentes en el campo 'ROL', podemos ver que la media se maneja entre conductor, pasajero_acompañante, peaton y ciclista mas alejado con menos frecuencia pasan.
 En numero de victimas podemos ver que auto, moto y peaton son los mas frecuentes y pasajeros y movil los menos frecuentes.
@@ -195,7 +193,7 @@ Definimos a la tasa de homicidios en siniestros viales como el número de vícti
 Para el desarrollo de estos KPI'S utilizamos los ultimos datos que tenemos en el dataset que corresponde al 2021.
 Para la comparacion de los mismos para ver si se llego a la metrica solicitada, se compararon con el año 2019 ya que le año 2020 fue un año atipico con restriccion de movilidad por la pandemia de Covid.
 
-![Texto alternativo](https://ejemplo.com/imagen.jpg)
+![KPIS](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20020615.png)
 
 Podemos ver que alcanzamos la meta de los dos primeros KPI's, en el caso del primero reduciendo un 11% la tasa de homicidios en siniestros viales en CABA en comparación del Segundo semestre de 2021 con el semestre anterior y  Alcanzamos la meta de Reducción en la cantidad de accidentes mortales de motociclistas en CABA en el año  2021 en un 8% en comparación con el año 2019.
 Para el 3er KPI propuesto, no solo no alcanzamos la meta propuesta, sino que hubo un aumento de 32% respecto del año 2021 y 2019. Es una consideracion a tomar y vamos a tratar de proponer algunas soluciones para poder bajar esta tasa y en proximos años a analizar poder llegar a nuestro objetivo.
