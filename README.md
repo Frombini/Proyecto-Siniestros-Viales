@@ -65,21 +65,23 @@ Las demas correlaciones son negativas o casi tendiendo a 0 lo cual indica que no
 
 - Luego realize histogramas para variables numericas del dataset y poder ver las tendencias y relaciones de los datos.
 
-
+![DistribuicionNumVictimas](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20012537.png)
 
 Podemos ver en este histograma que en la mayoria de los casos de accidentes, el numero de victimas por accidente en su mayoria es de 1, salvo contados accidentes donde muere mas de 1 persona en un accidente.
 
+![DistrNumVictimasAño]([https://ejemplo.com/imagen.jpg](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20012654.png))
 
+![AñoVictimas](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20012730.png)
 
 En este histograma vemos la cantidad de muertes en el periodo que contiene el dataset desde el año 2016 al 2021, distribuido año a año.
 Podemos ver que el año con mas accidentes de transito con victimas fatales fue el 2018
 
-
+![Mes](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20012803.png)
 
 En este grafico de barras podemos ver la cantidad de accidentes por mes.
 Vemos en que en los meses de Noviembre y Diciembre los accidentes fatales aumentan considerablemente.
 
-
+![Horas](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20013129.png)
 
 Con este histograma podemos ver los horarios donde mas accidentes de transito se producen.
 Vemos que en los horarios de 6 a 8 de la mañana se producen mas accidentes de transito fatales.
@@ -87,17 +89,17 @@ Vemos que en los horarios de 6 a 8 de la mañana se producen mas accidentes de t
 
 - Continue generando gráficos de barras para variables categóricas.
 
-
+![Texto alternativo](https://ejemplo.com/imagen.jpg)
 
 En este grafico de barras podemos analizar la cantidad de accidentes producidos en las 4 categorias de calles que tenemos, Avenida, Gral. Paz, calle y autopista.
 Se puede ver que en la Avenidas, especialmente en los cruces, los accidentes son mas propensos, podemos deducir que es porque las avenidas son conexiones con alto transito y conectan varias comunas de la ciudad.
 
-
+![Texto alternativo](https://ejemplo.com/imagen.jpg)
 
 En este grafico podemos ver la distribucion de muertes por accidentes de transito por comunas.
 Vemos que las comunas con mas accidentes de transito mortales son las Comuna 1, 4 y 9.
 
-
+![Texto alternativo](https://ejemplo.com/imagen.jpg)
 
 En este grafico de barras podemos analizar la cantidad de accidentes mortales, segun el tipo de Victima durante el 2021 que es nuestro ultimo año con informacion.
 Se puede ver que los accidentes de transito mortales en Motocicletas es grande con un 47% del total de los accidentes. Lo sigue de cerca los accidentes de transito moratles involucrando Peatones con un 34%.
@@ -108,7 +110,7 @@ PEATON: 34.02%
 BICICLETA: 6.19%
 PASAJEROS: 1.03%
 
-
+![Texto alternativo](https://ejemplo.com/imagen.jpg)
 
 En este grafico podemos ver en comparacion con el año 2021 la cantidad e homicidios por accidentes de transito en el año 2020.
 Porcentaje de Accidentes Mortales por Tipo de Víctima (2020):
@@ -117,19 +119,25 @@ AUTO: 14.10%
 PEATON: 43.59%
 BICICLETA: 6.41%
 
-
+![Texto alternativo](https://ejemplo.com/imagen.jpg)
 
 Este es el mapa de calor que hice para ver cuales son las zonas con mayor concentracion de homicidios por accidentes de transito.
 Se pueden Ver que las comunas que mas Homicidios por accidentes tienen son la Comuna 1 ( barrios de Retiro, San Nicolás, Puerto Madero, San Telmo, Montserrat y Constitución), 4 (barrios de La Boca, Barracas, Parque Patricios y Nueva Pompeya) y 9 ( barrios de Liniers, Mataderos y Parque Avellaneda.). Para ver mejor el mapa de calor, revisar el EDA.ipynb donde se puede ver el mapa interactivo.
 
-
+![Texto alternativo](https://ejemplo.com/imagen.jpg)
 
 Por ultimo podemos ver la relacion entre el sexo de las victimas por accidentes.
 
 
 - Analisis de Outliers
 
+![Texto alternativo](https://ejemplo.com/imagen.jpg)
 
+![Texto alternativo](https://ejemplo.com/imagen.jpg)
+
+![Texto alternativo](https://ejemplo.com/imagen.jpg)
+
+![Texto alternativo](https://ejemplo.com/imagen.jpg)
 
 Podemos analizar con los graficos box plots vistos anteriormente, que no parace haber valroes atipicos u outliers.
 Se puede ver que por ejemplo los accidentes en el campo 'ROL', podemos ver que la media se maneja entre conductor, pasajero_acompañante, peaton y ciclista mas alejado con menos frecuencia pasan.
@@ -179,7 +187,7 @@ Definimos a la tasa de homicidios en siniestros viales como el número de vícti
 Para el desarrollo de estos KPI'S utilizamos los ultimos datos que tenemos en el dataset que corresponde al 2021.
 Para la comparacion de los mismos para ver si se llego a la metrica solicitada, se compararon con el año 2019 ya que le año 2020 fue un año atipico con restriccion de movilidad por la pandemia de Covid.
 
-
+![Texto alternativo](https://ejemplo.com/imagen.jpg)
 
 Podemos ver que alcanzamos la meta de los dos primeros KPI's, en el caso del primero reduciendo un 11% la tasa de homicidios en siniestros viales en CABA en comparación del Segundo semestre de 2021 con el semestre anterior y  Alcanzamos la meta de Reducción en la cantidad de accidentes mortales de motociclistas en CABA en el año  2021 en un 8% en comparación con el año 2019.
 Para el 3er KPI propuesto, no solo no alcanzamos la meta propuesta, sino que hubo un aumento de 32% respecto del año 2021 y 2019. Es una consideracion a tomar y vamos a tratar de proponer algunas soluciones para poder bajar esta tasa y en proximos años a analizar poder llegar a nuestro objetivo.
