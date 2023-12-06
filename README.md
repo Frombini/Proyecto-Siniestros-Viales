@@ -249,16 +249,27 @@ Hacer enfasis en el control de las comunas 1 , 4 y 9 que son las comunas con may
 ## Links
 
 [Reporte POWERBI](https://app.powerbi.com/view?r=eyJrIjoiZGZiMzMwNGQtOWJjZi00N2E5LTg4MWUtOGFkNmZhZGUyYjMzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 [EDA.ipynb](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/EDA.ipynb)
+
 [ETL-MySQL](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/ETL_para_PowerBI.sql)
+
 [Presentacion POWERBI.pbix](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Dashboard_Siniestros_Viales.pbix)
+
 [PDF Definiciones Lesiones](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Documentacion/NOTAS_LESIONES_SINIESTRO_VIAL.pdf)
+
 [PDF Definiciones Homicidios](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Documentacion/NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf)
+
 [Bases de datos Siniestros Viales](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
+
 [Observatorio de Movilidad y Seguridad Social](https://buenosaires.gob.ar/movilidad/plan-de-seguridad-vial/observatorio-de-movilidad-y-seguridad-vial)
+
 [Que es el OMSV](https://buenosaires.gob.ar/movilidad/plan-de-seguridad-vial/que-es-el-omsv)
+
 [Investigaciones de seguridad vial](https://buenosaires.gob.ar/jefaturadegabinete/movilidad/investigaciones-de-seguridad-vial)
+
 [Informes estadisticos de seguridad vial](https://buenosaires.gob.ar/jefaturadegabinete/movilidad/informes-estadisticos-de-seguridad-vial)
+
 [Informes de Movilidad](https://buenosaires.gob.ar/jefaturadegabinete/movilidad/informes-de-movilidad)
 
 
