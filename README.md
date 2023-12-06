@@ -69,7 +69,7 @@ Las demas correlaciones son negativas o casi tendiendo a 0 lo cual indica que no
 
 Podemos ver en este histograma que en la mayoria de los casos de accidentes, el numero de victimas por accidente en su mayoria es de 1, salvo contados accidentes donde muere mas de 1 persona en un accidente.
 
-![DistrNumVictimasAño]([https://ejemplo.com/imagen.jpg](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20012654.png))
+![DistrNumVictimasAño]([https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20012654.png])
 
 ![AñoVictimas](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20012730.png)
 
