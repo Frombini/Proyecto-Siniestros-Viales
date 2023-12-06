@@ -202,7 +202,7 @@ Para el 3er KPI propuesto, no solo no alcanzamos la meta propuesta, sino que hub
 ## Conclusiones
 Para mayor informacion ver la seccion de links, donde se encuentran los archivos del proyecto, la presentacion de Power Bi y otros.
 
-Link al Reporte hecho en POWER BI : 
+Link al Reporte hecho en POWER BI : [Reporte - Homicidios en siniestro viales en CABA](https://app.powerbi.com/view?r=eyJrIjoiZGZiMzMwNGQtOWJjZi00N2E5LTg4MWUtOGFkNmZhZGUyYjMzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
 - A partir del analisis que hice de los datos, tendencias, relaciones y graficos que realice tanto en Python y en Power BI se puede sacar las siguientes conclusiones:
