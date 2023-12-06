@@ -3,6 +3,7 @@
 
 ![siniestros](https://camo.githubusercontent.com/c89e484e93d62f006114729075599dc6d77933f4eb199f15e0189a5180f4a973/68747470733a2f2f7374617469632e6c616a6f726e61646165737461646f64656d657869636f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30382f53696e69657374726f732d7669616c65732e6a7067)
 
+
 ## Introduccion
 
 Este proyecto se realizó simulando ser un Data Analist de una consultora.
@@ -55,10 +56,7 @@ Con las bases limpias, procedemos a analisar la informacion que contienen y busc
 
 ![Mapa Correlacion](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20012207.png)
 
-
 ![Mapa Correlacion](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20012217.png)
-
-
 Podemos ver relaciones esperadas como la de comuna y la altura de la calle, tambien comuna con posx(Longitud) y posy(Latitud).
 Las demas correlaciones son negativas o casi tendiendo a 0 lo cual indica que no tienen correlacion directa entre si
 
