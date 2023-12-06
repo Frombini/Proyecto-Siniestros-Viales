@@ -51,7 +51,12 @@ En el Proceso de EDA (Análisis Exploratorio de los datos) Realizamos un analisi
 Con las bases limpias, procedemos a analisar la informacion que contienen y buscar relaciones y tendencias para luego su analisis mas profundo en el reporte en Power BI.
 
 - El primer analisis que hice fue el de correlacion de las columnas numericas para identificar si hay relacion entre los datos numericos
+  
 
+![Texto alternativo]([https://ejemplo.com/imagen.jpg](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20012207.png))
+
+
+![Texto alternativo](https://github.com/Frombini/Proyecto-Siniestros-Viales/blob/main/Imagenes/Graficos%20Python/Captura%20de%20pantalla%202023-12-06%20012217.png)
 
 
 Podemos ver relaciones esperadas como la de comuna y la altura de la calle, tambien comuna con posx(Longitud) y posy(Latitud).
